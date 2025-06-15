@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! Thats Me Marcello 👋
 
 <!--
 **MarcelloYasta/MarcelloYasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on All In One Group
+- 🌱 I’m currently learning Web Developement
+- **Just Wait For Me.**
+
+![work](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1laTlpb3l4dHlxMnEwc25yZm1kcHh3OThycmpweHdiZmtqZnMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ei2yv8fqpR3nJG8/giphy.gif)
