@@ -5,7 +5,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarcelloYasta/MarcelloYasta/output/pacman-contribution-graph.svg">
 </picture>
 
-- I’m currently working on All In One Group
+- Some web project must be private
 - I’m currently learning Web Developement
 - **Just Wait For Me.**
 
