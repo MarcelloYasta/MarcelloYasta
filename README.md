@@ -5,9 +5,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarcelloYasta/MarcelloYasta/output/pacman-contribution-graph.svg">
 </picture>
 
-A highly motivated Informatics Engineering graduate from Universitas Islam Negeri Sultan Syarif Kasim with a strong foundation in IT fundamentals. Passionate about continuous learning and gaining valuable experiences both academically and professionally. Equipped with analytical and problem-solving skills, I am motivated to explore career opportunities in FullStack Web Developer, IT Consulting, Project Management, IT Governance, Basic Android Developer, Business Analysis, Inclusive and Innovative Leadership, and Talent Development. Committed to leveraging technology and innovation to create impactful solutions.
-
-
 - Some projects must be private
 - FullStack Web Developer
 - **Just Wait For Me.**
@@ -15,7 +12,10 @@ A highly motivated Informatics Engineering graduate from Universitas Islam Neger
 ![work](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlqbmV1dml4N2czNDkyc2VkY3R1ejl5aTc3MHlzcHBiZjB0YzJhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NuxRC8DAnC62qWySWz/giphy.gif)
 
 # 💫 About Me:
-Hello World! Thats Me Marcello 👋
+A highly motivated Informatics Engineering graduate from Universitas Islam Negeri Sultan Syarif Kasim with a strong foundation in IT fundamentals. Passionate about continuous learning and gaining valuable experiences both academically and professionally. Equipped with analytical and problem-solving skills, I am motivated to explore career opportunities in FullStack Web Developer, IT Consulting, Project Management, IT Governance, Basic Android Developer, Business Analysis, Inclusive and Innovative Leadership, and Talent Development. Committed to leveraging technology and innovation to create impactful solutions.
+
+Developed web applications focused on providing business solutions. Proficient in implementing robust backend architectures using Laravel, as well as creating seamless and modern user experiences with JavaScript, HTML5, and CSS.
+
 
 
 ## 🌐 Socials:
