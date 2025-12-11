@@ -8,7 +8,7 @@
 A highly motivated Informatics Engineering graduate from Universitas Islam Negeri Sultan Syarif Kasim with a strong foundation in IT fundamentals. Passionate about continuous learning and gaining valuable experiences both academically and professionally. Equipped with analytical and problem-solving skills, I am motivated to explore career opportunities in FullStack Web Developer, IT Consulting, Project Management, IT Governance, Basic Android Developer, Business Analysis, Inclusive and Innovative Leadership, and Talent Development. Committed to leveraging technology and innovation to create impactful solutions.
 
 
-- Some project must be private
+- Some projects must be private
 - FullStack Web Developer
 - **Just Wait For Me.**
 
